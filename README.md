@@ -2,9 +2,7 @@
 
 **ARTI 403/404: Image Processing** is a course about the basic ideas behind digital image manipulation. The main goal is to understand how digital images are represented, structured, and processed inside a computer.
 
-The course focuses on hands-on programming in Python 3. Students set up a scientific computing environment with Anaconda and work mainly in Jupyter Notebooks and the Spyder IDE. To process images, students use Python libraries such as OpenCV, NumPy, Pillow (PIL), SciPy, scikit-image, and Matplotlib.
 
-Students learn the full process of handling images on a computer: reading and viewing image files, converting images into NumPy arrays, and checking the shape of that data. Once an image is treated as a numerical array, students can perform pixel-level operations and mathematical transformations on it, then save the changed image back to disk.
 
 ## Labs
 
@@ -14,7 +12,7 @@ Students learn the full process of handling images on a computer: reading and vi
 | [Lab 2](labs/lab2/README.md) | Digital Image Fundamentals | Sampling and quantization, arithmetic operations, and set/logical operations on images |
 | [Lab 3](labs/lab3/README.md) | Image Manipulations using OpenCV | Color space conversions, geometric transformations (resize, rotate, shear), and intensity transformations (negative, log, power-law) |
 
-Each lab has its own `README.md` with setup and run instructions. The notebooks (`labX.ipynb`) are saved with their outputs, so the results can be read without running them again.
+
 
 ## Requirements
 
