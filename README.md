@@ -11,6 +11,7 @@
 | [Lab 1](labs/lab1/README.md) | Basics of Programming with Python | Load, view, save, and change an image as a NumPy array using OpenCV, PIL, and scikit-image side by side |
 | [Lab 2](labs/lab2/README.md) | Digital Image Fundamentals | Sampling and quantization, arithmetic operations, and set/logical operations on images |
 | [Lab 3](labs/lab3/README.md) | Image Manipulations using OpenCV | Color space conversions, geometric transformations (resize, rotate, shear), and intensity transformations (negative, log, power-law) |
+| [Lab 4](labs/lab4/README.md) | Intensity Transformations and Filtering (Spatial Domain) | Thresholding, contrast stretching, histogram equalization, and histogram matching |
 
 
 
