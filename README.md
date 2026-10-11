@@ -12,6 +12,7 @@
 | [Lab 2](labs/lab2/README.md) | Digital Image Fundamentals | Sampling and quantization, arithmetic operations, and set/logical operations on images |
 | [Lab 3](labs/lab3/README.md) | Image Manipulations using OpenCV | Color space conversions, geometric transformations (resize, rotate, shear), and intensity transformations (negative, log, power-law) |
 | [Lab 4](labs/lab4/README.md) | Intensity Transformations and Filtering (Spatial Domain) | Thresholding, contrast stretching, histogram equalization, and histogram matching |
+| [Lab 5](labs/lab5/README.md) | Spatial Filtering – Smoothing and Sharpening | Unsharp masking, box and Gaussian smoothing, and Laplacian sharpening |
 
 
 
