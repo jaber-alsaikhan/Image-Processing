@@ -13,6 +13,7 @@
 | [Lab 3](labs/lab3/README.md) | Image Manipulations using OpenCV | Color space conversions, geometric transformations (resize, rotate, shear), and intensity transformations (negative, log, power-law) |
 | [Lab 4](labs/lab4/README.md) | Intensity Transformations and Filtering (Spatial Domain) | Thresholding, contrast stretching, histogram equalization, and histogram matching |
 | [Lab 5](labs/lab5/README.md) | Spatial Filtering – Smoothing and Sharpening | Unsharp masking, box and Gaussian smoothing, and Laplacian sharpening |
+| [Lab 6](labs/lab6/README.md) | Frequency Domain | Laplacian filtering with the FFT, and Sobel edge detection in the frequency domain |
 
 
 
