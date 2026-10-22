@@ -14,6 +14,7 @@
 | [Lab 4](labs/lab4/README.md) | Intensity Transformations and Filtering (Spatial Domain) | Thresholding, contrast stretching, histogram equalization, and histogram matching |
 | [Lab 5](labs/lab5/README.md) | Spatial Filtering – Smoothing and Sharpening | Unsharp masking, box and Gaussian smoothing, and Laplacian sharpening |
 | [Lab 6](labs/lab6/README.md) | Frequency Domain | Laplacian filtering with the FFT, and Sobel edge detection in the frequency domain |
+| [Lab 7](labs/lab7/README.md) | Laplacian Filter, and Mathematical & Statistical Filters | Laplacian sharpening, then removing Gaussian, salt & pepper, exponential, and uniform noise with mean and order-statistic filters |
 
 
 
